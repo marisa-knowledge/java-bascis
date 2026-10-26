@@ -5,4 +5,5 @@ java后端学习
 2026-10-18   List,arraylist&linkedlist                                                                                        
 2026-10-19   Set去重,hashCode重写,equals重写,Map                                                                                        
 2026-10-21   Exception,try-catch,throw&throws                                                                                
-2026-10-25   filewriter,filerea
+2026-10-25   filewriter,filerea                                                                                                        
+2026-10-26   bufferedreader/writer,split,getordefault
