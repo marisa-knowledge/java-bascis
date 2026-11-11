@@ -10,3 +10,5 @@ java后端学习
 2026-10-29   初步掌握Socket网络基础,实现TCP客户端与服务端通                                                                                            
 2026-11-03   多线程，实现多线程Socket服务端                                                                                          
 2026-11-05   配置MySQL-connector-j环境，初步运行Jdbc                                                                                                        
+2026-11-10   在java中运行mysql语句，实现增删查改                                                                        
+2026-11-11   在java中运行join limit等基础语句
